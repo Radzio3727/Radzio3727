@@ -7,7 +7,7 @@ Hello, I'm Radek, deeply immersed in programming. Welcome to my profile.
 ![Discord Badge](https://discord.c99.nl/widget/theme-2/892909159597609000.png)
 
 
-[![SkullBot Project](https://cdn.discordapp.com/attachments/1241782754341945427/1242977217101824050/SkulLBOT.jpg?ex=6662413d&is=6660efbd&hm=4271e36c08811468fd4dbb00c25c3cef6a622589acf5e9067935a21f724b95e5&)](https://discord.gg/9qC6gSPj88)
+[![SkullBot Project](https://cdn.discordapp.com/avatars/1090578339279941692/d72d4f8556f96f47ec80ff7c23487cf8.webp?size=240)](https://discord.gg/9qC6gSPj88)
 
 ## **Connect with Me**
 
