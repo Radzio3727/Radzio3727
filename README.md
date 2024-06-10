@@ -3,9 +3,8 @@ Welcome to my profile.
 
 Hello, I'm Radek, I'm familiar with programming discord bots.
 
-[Join my Discord Server](https://discord.gg/naXeG6SjhK)
-
 ![Discord Badge](https://discord.c99.nl/widget/theme-2/892909159597609000.png)
+<a href="https://discord.com/users/892909159597609000/"><img src="https://discord.c99.nl/widget/theme-2/892909159597609000.png)"></a> <a href="https://discord.gg/naXeG6SjhK"><img src="https://discord.com/api/guilds/1171603700301692948/widget.png?style=banner2"></a>
 
 ## **Connect with Me**
 
