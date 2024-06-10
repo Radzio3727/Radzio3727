@@ -1,6 +1,7 @@
 ---
+Welcome to my profile.
 
-Hello, I'm Radek, I'm familiar with programming discord bots. Welcome to my profile.
+Hello, I'm Radek, I'm familiar with programming discord bots.
 
 [Join my Discord Server](https://discord.gg/naXeG6SjhK)
 
